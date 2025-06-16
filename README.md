@@ -1,6 +1,6 @@
-# 🎨 SensAI Themes
+# 🎨 SensAI - Themes
 
-*A modern, intelligent theming solution built with Next.js that provides dynamic theme switching capabilities and a comprehensive design system for web applications.*
+*A modern, intelligent theming solution built with Next.js that provides dynamic theme switching capabilities and a comprehensive design system for resume building.*
 
 ## ✨ Features
 
